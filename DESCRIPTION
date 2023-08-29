@@ -14,4 +14,8 @@ Imports: here,
     knitr (>= 1.43),
     rmarkdown (>= 2.24)
 Suggests: devtools,
-    git2r
+    git2r,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+URL: https://avallecam.github.io/rrtoolstest1/

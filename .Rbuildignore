@@ -12,3 +12,7 @@
 analysis
 ^Dockerfile$
 ^render-in-docker\.yaml$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$
